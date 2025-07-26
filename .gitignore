@@ -1,0 +1,34 @@
+-specific
+.DS_Store
+
+# Editor-specific
+.idea/
+.vscode/
+*.swp
+*~
+
+# Python artifacts (if applicable)
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter or markdown notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+Thumbs.db
+Desktop.ini
+
+# Compressed files
+
+# Logs and backups
+*.log
+*.bak
+*.tmp
+
+# Environment files
+.env
+.env.*
+
+# Generated content
+formats/Audio/
